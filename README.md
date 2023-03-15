@@ -1,2 +1,11 @@
 # DiabetesDetection
-Determine if a person has diabetes or not
+
+The goal is to predict if Diabetes is present or not
+
+Data preprocessing
+
+Dataset plots
+
+Training the model
+
+Build a predictive system
