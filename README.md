@@ -9,3 +9,5 @@ Dataset plots
 Training the model
 
 Build a predictive system
+
+Build a web app using Streamlit
